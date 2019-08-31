@@ -8,5 +8,8 @@
 1. Nodejs
 2. Mysql database
 
-##Demo
+## Demo
 [![View data](https://i.ibb.co/hV2cfx7/Screenshot-at-2019-08-31-22-53-14.png "View data")](https://i.ibb.co/hV2cfx7/Screenshot-at-2019-08-31-22-53-14.png "View data")
+
+## Note
+Ada beberapa case yang saya belum selesaikan, dikarenakan ada urusan mendadak yang sangat penting jadi waktu pengerjaan saya sebentar
