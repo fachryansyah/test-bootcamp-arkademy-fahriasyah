@@ -1,10 +1,10 @@
-##Stacks
+## Stacks
 1.  Nodejs v12
 2.  Mysql database
 3. Vuejs
 4. Bootstrap 4
 
-##Software yang diperlukan
+## Software yang diperlukan
 1. Nodejs
 2. Mysql database
 
